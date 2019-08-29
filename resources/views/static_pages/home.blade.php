@@ -1,4 +1,4 @@
-@extends('laouts.default')
+@extends('layouts.default')
 @section('title','Weibo app')
 @section('content')
     <div class="jumbotron">
