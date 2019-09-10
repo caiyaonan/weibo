@@ -74,7 +74,7 @@ return [
 //            'username' => env('DB_USERNAME', 'forge'),
 //            'password' => env('DB_PASSWORD', ''),
             'host' => $db_config['host'],
-            'port' => $db_config['port'],
+//            'port' => $db_config['port'],
             'database' => $db_config['database'],
             'username' => $db_config['username'],
             'password' => $db_config['password'],
